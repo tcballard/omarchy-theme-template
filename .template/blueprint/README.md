@@ -1,12 +1,12 @@
-<h1 align="center">Omarchy Theme Starter</h1>
+<h1 align="center">@@NAME_HTML@@</h1>
 
-<p align="center">An original semantic palette to develop into your own Omarchy theme.</p>
+<p align="center">@@DESCRIPTION_HTML@@</p>
 
 <p align="center"><a href="https://github.com/tcballard/omarchy-badges"><img alt="Built for Omarchy: Theme" height="20" src="https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg"></a></p>
 
 Development starter for Omarchy projects. Initialize it once, then replace the example with your product.
 
-Original starter; no external product inspiration has been declared. Add prominent credit here when adapting an existing project.
+@@INSPIRATION_NOTE@@
 
 **Start here:** [Create and initialize your repository](docs/SETUP.md).
 
